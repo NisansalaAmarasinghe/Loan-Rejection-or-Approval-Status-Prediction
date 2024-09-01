@@ -21,7 +21,7 @@ This project aims to predict whether a loan application will be approved or reje
     <li>Scikit-learn: For machine learning algorithms, including SVC.</li>
   </ul>
 
-  <h2>Steps and Points</h2>
+  <h2>Steps of the Prediction</h2>
   <ol>
     <li><strong>Data Understanding:</strong>
       <ul>
