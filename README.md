@@ -61,3 +61,5 @@ This project aims to predict whether a loan application will be approved or reje
     <li>Specific code implementations and visualization techniques may vary based on the dataset and project requirements.</li>
     <li>For more advanced analysis, consider exploring feature engineering, hyperparameter tuning, and ensemble methods.</li>
   </ul>
+  <h2>Author</h2>
+  <p><strong>Nisansala Amarasinghe</strong></p>
