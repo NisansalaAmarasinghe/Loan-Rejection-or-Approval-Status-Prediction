@@ -14,11 +14,11 @@ This project aims to predict whether a loan application will be approved or reje
 
   <h2>Libraries Used</h2>
   <ul>
-    <li>Pandas: For data manipulation and analysis.</li>
-    <li>NumPy: For numerical operations.</li>
-    <li>Matplotlib: For data visualization.</li>
-    <li>Seaborn: For statistical visualizations.</li>
-    <li>Scikit-learn: For machine learning algorithms, including SVC.</li>
+    <li><b>Pandas</b>: For data manipulation and analysis.</li>
+    <li><b>NumPy</b>: For numerical operations.</li>
+    <li><b>Matplotlib</b>: For data visualization.</li>
+    <li><b>Seaborn</b>: For statistical visualizations.</li>
+    <li><b>Scikit-learn</b>: For machine learning algorithms, including SVC.</li>
   </ul>
 
   <h2>Steps of the Prediction</h2>
